@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: py-bash-colors
+Version: 0.0.1
+Summary: apply text colors and effects for console printing
+Home-page: https://github.com/jrc03c/by_bash_colors
+Author: jrc03c
+Author-email: jrc03c@pm.me
+License: none
+Classifier: Environment :: Console
